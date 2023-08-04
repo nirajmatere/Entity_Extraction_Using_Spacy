@@ -1,0 +1,8 @@
+Time for extracting features:
+
+pig-data: 1 min 26 sec (on CPU) , (29 sec on TPU)
+BrightData: 15 min 25 sec (on CPU) , (3 min on TPU)
+Honda - 15 sec (on TPU)
+Saizeriya - 4 sec (On TPU)
+Icici - 4 min (On TPU)
+Tata - 5 min (on TPU)
